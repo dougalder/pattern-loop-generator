@@ -1,5 +1,5 @@
 # Pattern Loop Generator
-[Launch Pattern Loop Generator](pattern-loop-generator.html)
+[Launch Pattern Loop Generator](https://dougalder.github.io/pattern-loop-generator/pattern-loop-generator.html)
 Make a shape, a word or your own picture repeat across the screen and animate
 it in a loop that joins back to its start with no jump. Export the result as a
 video (an **MP4** file) or an animated picture (a **GIF** file).
