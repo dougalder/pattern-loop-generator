@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/ebef15cc-95be-4472-96b5-77bb772c1767
+
 # Pattern Loop Generator
 [Launch Pattern Loop Generator](https://dougalder.github.io/pattern-loop-generator/pattern-loop-generator.html)
 Make a shape, a word or your own picture repeat across the screen and animate
